@@ -10,11 +10,11 @@
 
 ### 3枚目のスライド
 
-- Java
-- JavaScript|
-- Kotlin|
-- Go|
-- Scale|
+- Java |
+- JavaScript |
+- Kotlin |
+- Go |
+- Scale |
 
 ---
 
