@@ -15,9 +15,6 @@
 
 </canvas>
 
-
----
-
 ---?code=sample.cs
 
 ### 2枚目のスライド
